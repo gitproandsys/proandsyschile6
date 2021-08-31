@@ -1,0 +1,6 @@
+[submodule "proandsys"]
+	path = proandsys
+	url = https://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:x-oauth-basic@github.com/gitproandsys/proandsys
+[submodule "custom"]
+	path = custom
+	url = https://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:x-oauth-basic@github.com/gitproandsys/custom
